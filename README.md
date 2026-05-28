@@ -1,259 +1,228 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">⚡ Yuvraj Singh ⚡</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:e50914,100:000000&height=300&section=header&text=YUVRAJ%20SINGH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20ML%20Enthusiast&descAlignY=65&descAlign=50"/>
 
-<h3 align="center">
-🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI & ML Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://github.com/yuvi029">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Yuvraj+Singh;Aspiring+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+AI+Powered+Projects+🚀;React+%7C+Python+%7C+FastAPI+%7C+SQL;Welcome+To+My+GitHub+Profile+🔥" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=YUVI029&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20ML%20Enthusiast&descAlignY=60&descAlign=50"/>
-</p>
-
----
-
-<img align="right" alt="Coding" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 💫 About Me
-
-🎓 B.Tech in Electrical Engineering @ **NIT Jamshedpur**  
-💻 Passionate about **Full Stack Development, Data Analytics & AI**  
-📊 Skilled in **Python, SQL, React, FastAPI & Power BI**  
-🤖 Exploring **Machine Learning + AI Applications**  
-🚀 Love building real-world impactful projects  
-⚡ Consistent learner and problem solver  
-
-<br>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/yuvraj-singh-205491253">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:singhyuvi4321@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/yuvi029">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tech Stack
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,html,css,tailwind,mongodb,mysql,git,github,vscode" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E50914&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Yuvraj+Singh;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Data+Analyst+%7C+ML+Enthusiast+%F0%9F%A4%96;Building+AI+Powered+Projects+%F0%9F%94%A5;React+%7C+Python+%7C+FastAPI+%7C+SQL;Welcome+To+My+GitHub+Profile+%E2%9A%A1)](https://github.com/yuvi029)
 
 </div>
 
 ---
 
-# 📊 Data Analytics & AI
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 💫 About Me
+
+🎓 B.Tech in Electrical Engineering @ **NIT Jamshedpur**
+💻 Passionate about **Full Stack Development, Data Analytics & AI**
+📊 Skilled in **Python, SQL, React, FastAPI & Power BI**
+🤖 Exploring **Machine Learning + AI Applications**
+🚀 Love building real-world impactful projects
+⚡ Consistent learner and problem solver
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-singh-205491253)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhyuvi4321@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvi029)
 
 </div>
 
-<p align="center">
+---
 
-🧠 Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn • Power BI • Machine Learning
+## 🚀 Tech Stack
 
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-# 🔥 Featured Projects
+## 🤖 Data Analytics & AI
 
-## 🏗️ Nirmaan — Build Your Home
+<div align="center">
 
-✨ Smart construction service platform connecting users with trusted contractors.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Features:
-- Smart contractor discovery
-- Service booking system
-- Responsive UI
-- Modern React frontend
-
-### ⚙️ Tech Stack:
-`React` `JavaScript` `Tailwind CSS`
+</div>
 
 ---
 
-## 🤖 AI Meeting Summarizer
+## 🔥 Featured Projects
 
-✨ AI-powered tool that converts long meetings into concise summaries.
+<table align="center">
+<tr>
 
-### 🚀 Features:
-- AI-generated summaries
-- Smart text processing
-- Productivity-focused workflow
+<td width="50%" valign="top">
 
-### ⚙️ Tech Stack:
-`JavaScript` `AI APIs`
+### 🎬 Movie Recommender System
+> Netflix-inspired AI movie recommendation engine
 
----
+- 🧠 NLP + Cosine Similarity on 4800+ movies
+- ⚡ FastAPI backend deployed on Render
+- 🎨 Netflix-style React UI on Vercel
+- 📦 TMDB 5000 Dataset
 
-## 🌐 Personal Portfolio Website
+**Stack:** `Python` `FastAPI` `React` `Scikit-Learn` `NLTK`
 
-✨ Modern developer portfolio showcasing projects, skills & achievements.
+[![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029/Movie-Recommender)
+[![Live](https://img.shields.io/badge/Live-e50914?style=flat-square&logo=vercel)](https://movie-recommender-yuvi.vercel.app)
 
-### 🚀 Features:
-- Responsive UI
-- Interactive animations
-- Project showcase section
+</td>
 
-### ⚙️ Tech Stack:
-`React` `Tailwind CSS`
+<td width="50%" valign="top">
 
----
+### 🏗️ Nirmaan — Build Your Home
+> Smart construction service platform
 
-## 🧠 Wellvia AI
+- 🔍 Smart contractor discovery
+- 📅 Service booking system
+- 📱 Fully responsive UI
 
-✨ AI-integrated intelligent web project focused on modern automation and smart workflows.
+**Stack:** `React` `JavaScript` `Tailwind CSS`
 
-### ⚙️ Tech Stack:
-`React` `AI` `JavaScript`
+[![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029)
 
----
+</td>
 
-## ⚡ Sparkathon
+</tr>
+<tr>
 
-✨ Innovative hackathon-based project focused on problem solving & rapid development.
+<td width="50%" valign="top">
 
-### ⚙️ Tech Stack:
-`Python`
+### 🤖 AI Meeting Summarizer
+> Converts long meetings into concise AI summaries
 
----
+- 🧠 AI-generated summaries
+- ⚡ Smart text processing
+- 📈 Productivity-focused workflow
 
-## 🎬 Movie Recommender System
+**Stack:** `JavaScript` `AI APIs`
 
-✨ Netflix-inspired movie recommendation platform using NLP & cosine similarity.
+[![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029)
 
-### ⚙️ Tech Stack:
-`Python` `FastAPI` `React` `Scikit-Learn`
+</td>
 
----
+<td width="50%" valign="top">
 
-# 📈 GitHub Stats
+### 🧠 Wellvia AI
+> AI-integrated intelligent web automation platform
 
-<p align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvi029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+- 🤖 Smart AI workflows
+- ⚡ Modern automation
+- 🌐 Web-first design
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi029&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+**Stack:** `React` `AI` `JavaScript`
 
-</p>
+[![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029)
 
----
+</td>
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=yuvi029&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 GitHub Stats
 
-<p align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvi029&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<div align="center">
 
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvi029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e50914&icon_color=e50914"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi029&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e50914"/>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=yuvi029&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🔥 GitHub Streak
 
-<p align="center">
-  
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yuvi029&theme=tokyonight&hide_border=true&background=0D1117&ring=e50914&fire=e50914&currStreakLabel=e50914"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvi029&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=e50914&line=e50914&point=ffffff"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yuvi029&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Visitor Counter
+## 🏅 Achievements
 
-<p align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=yuvi029&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```yaml
-- Full Stack Development
-- Backend Engineering
-- Machine Learning
-- AI Integration
-- Advanced DSA
-```
+| 🏆 Achievement | 📌 Details |
+|---|---|
+| 🥈 2nd Position | Analytica Event @ NIT Jamshedpur |
+| ⭐ 4 Star Python | HackerRank |
+| ⭐ 3 Star SQL | HackerRank |
+| 🎯 Top 1.8% | JEE Mains 2023 |
+| 🏆 Winner | Off Road Quest |
+| 🏆 Winner | Technical Quiz |
+| 🎖️ Shortlisted | Unstop Talent Park 2025 |
 
 ---
 
-# 🏅 Achievements
-
-🏆 2nd Position — Analytica Event @ NIT Jamshedpur  
-🏆 4⭐ Python on HackerRank  
-🏆 3⭐ SQL on HackerRank  
-🏆 Top 1.8% in JEE Mains 2023  
-🏆 Winner — Off Road Quest  
-🏆 Winner — Technical Quiz  
-🏆 Shortlisted — Unstop Talent Park 2025  
-
----
-
-# 💻 Fun Zone
+## 💻 Fun Zone
 
 ```python
 class YuvrajSingh:
 
     def __init__(self):
-        self.name = "Yuvraj Singh"
-        self.role = "Full Stack Developer"
-        self.skills = [
-            "Python",
-            "React",
-            "Machine Learning",
-            "FastAPI",
-            "SQL"
-        ]
+        self.name    = "Yuvraj Singh"
+        self.role    = "Full Stack Developer"
+        self.college = "NIT Jamshedpur"
+        self.skills  = ["Python", "React", "ML", "FastAPI", "SQL"]
 
     def life_cycle(self):
         while True:
@@ -261,15 +230,9 @@ class YuvrajSingh:
             self.build()
             self.learn()
 
-    def code(self):
-        return "Building amazing projects 🚀"
-
-    def build(self):
-        return "Creating impactful solutions 🔥"
-
-    def learn(self):
-        return "Leveling up every day ⚡"
-
+    def code(self):   return "Building amazing projects 🚀"
+    def build(self):  return "Creating impactful solutions 🔥"
+    def learn(self):  return "Levelling up every day ⚡"
 
 me = YuvrajSingh()
 print(me.code())
@@ -277,28 +240,34 @@ print(me.code())
 
 ---
 
-# ✨ Random Dev Quote
+## 🧠 Currently Learning
 
-<p align="center">
-  
+```yaml
+- Full Stack Development
+- Backend Engineering  
+- Machine Learning
+- AI Integration
+- Advanced DSA
+```
+
+---
+
+## ✨ Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</p>
+</div>
 
 ---
 
-# 🌌 Developer Mindset
+<div align="center">
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yuvi029&label=Profile+Views&color=e50914&style=for-the-badge"/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+**⭐ From [yuvi029](https://github.com/yuvi029) with ❤️**
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:e50914,100:000000&height=120&section=footer"/>
 
----
-
-<h3 align="center">
-
-⭐ From <a href="https://github.com/yuvi029">yuvi029</a> with ❤️
-
-</h3>
+</div>

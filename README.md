@@ -107,6 +107,7 @@
 **Stack:** `React` `JavaScript` `Tailwind CSS`
 
 [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029)
+[![Live](https://img.shields.io/badge/Live-e50914?style=flat-square&logo=vercel)](https://nirman-01.vercel.app)
 
 </td>
 
@@ -125,6 +126,7 @@
 **Stack:** `JavaScript` `AI APIs`
 
 [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/yuvi029)
+[![Live](https://img.shields.io/badge/Live-e50914?style=flat-square&logo=vercel)](https://ai-meeting-summarizer-six.vercel.app)
 
 </td>
 
@@ -244,7 +246,7 @@ print(me.code())
 
 ```yaml
 - Full Stack Development
-- Backend Engineering  
+- Backend Engineering
 - Machine Learning
 - AI Integration
 - Advanced DSA
